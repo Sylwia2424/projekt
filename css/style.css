@@ -1,50 +1,51 @@
 /*Splash*/
 .splash {
-	object-fit: cover;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .card-body {
-	height: 50%
+  height: 50%;
 }
 
 .title {
-	color: white;
+  color: white;
 }
 
 /*Section1*/
 i {
-	font-size: 30px;
+  font-size: 30px;
 }
 
 /*Portfolio*/
 .portfolio {
-	background: #dfe6e9;
+  background: #dfe6e9;
 }
 
 .icon {
-	width: 30%;
-	height: 30%;
-	margin: 0 35%;
+  width: 30%;
+  height: 30%;
+  margin: 0 35%;
 }
 
 .six {
-    width: 100%;
-    height: 300px; 
-    object-fit: cover;    
+  width: 100%;
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .size {
-	font-size: 0;
+  font-size: 0;
 }
-/*footer*/
 
+/*footer*/
 footer {
-	background: grey;
+  background: grey;
 }
 
 .footer ul li {
-  display: inline-block; 
-
+  display: inline-block;
 }
 
 .footer i {
@@ -55,5 +56,6 @@ footer {
   height: 60px;
   line-height: 60px;
   border-radius: 50%;
-  text-align: center; 
+  text-align: center;
 }
+/*# sourceMappingURL=style.css.map */
